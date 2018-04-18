@@ -1,0 +1,4 @@
+@HD	VN:1.4
+@SQ	SN:AC_000158.1	LN:799920
+@PG	ID:STAR	PN:STAR	VN:STAR_2.5.4b	CL:STAR   --genomeDir ../test   --readFilesIn ../test/test.fastq   
+@CO	user command line: STAR --genomeDir ../test --readFilesIn ../test/test.fastq
