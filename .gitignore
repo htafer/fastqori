@@ -89,3 +89,22 @@ ENV/
 .ropeproject
 *.npy
 *.pkl
+
+# Testing file
+chrStart.txt			
+chrNameLength.txt		
+chrName.txt			
+chrLength.txt		
+genomeParameters.txt		
+SA				
+Genome			
+SAindex			
+test				
+SJ.out.tab			
+Log.progress.out		
+Log.out			
+Log.final.out
+
+# Backup file
+*~
+\#*
