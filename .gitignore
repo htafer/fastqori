@@ -91,19 +91,19 @@ ENV/
 *.pkl
 
 # Testing file
-fastqori/chrStart.txt			
-fastqori/chrNameLength.txt		
-fastqori/chrName.txt			
-fastqori/chrLength.txt		
-fastqori/genomeParameters.txt		
-fastqori/SA				
-fastqori/Genome			
-fastqori/SAindex			
-fastqori/test				
-fastqori/SJ.out.tab			
-fastqori/Log.progress.out		
-fastqori/Log.out			
-fastqori/Log.final.out
+**chrStart.txt			
+**chrNameLength.txt		
+**chrName.txt			
+**chrLength.txt		
+**genomeParameters.txt		
+**SA				
+**Genome			
+**SAindex			
+**test				
+**SJ.out.tab			
+**Log.progress.out		
+**Log.out			
+**Log.final.out
 
 # Backup file
 **~
